@@ -1,0 +1,46 @@
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6669827260062603
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6490525697309876
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6617614164857187
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6498209307474451
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.641947218197363
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6347669594828886
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6269732774819421
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6179177954323086
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.610822722429487
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.6067241139048453
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5987676855084063
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5945320872101137
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5921510473929344
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5910646942915345
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5870687673612757
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5872823765544941
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5878005008510224
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5847821714547753
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.584224571100808
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5818125686366556
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5826344549679731
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.5833708132235096
+Namespace(K=4, batch_size=256, buffer_size=100000, data_path='../Data/', dataset='3day', dimension=64, drop_out=0.4, epoch=40, gpu_id=6, lr=0.0001, ratio=1, reg=1e-05)
+0.581695384864897
